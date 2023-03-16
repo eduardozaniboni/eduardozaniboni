@@ -1,17 +1,15 @@
-### Hello, I am Eduardo Zaniboni
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa7500&height=120&section=header"/>
 
-- 🔭 Today I work as full stack developer
-- 🌱 Sturying JavaSript
-- 😄 My pronouns he/him
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fa7500&size=35&center=true&vCenter=true&width=1000&lines=What's+up?+My+name+is+Eduardo+Zaniboni!;I'm+22+years+old+and+I'm+from+Domingos+Martins+-+ES;Be+Welcome+to+my+Github!)](https://git.io/typing-svg)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardozaniboni&color=fa7500" alt="Profile Views" /> </p>
+
+- Full Stack Web Developer JR
+- Sturying [TypeScript](https://www.typescriptlang.org/)
+- I’m currently working at [EL Produções de Software](https://www.el.com.br/)
 
 
 | <a href="https://github.com/eduardozaniboni/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardozaniboni&show_icons=true&include_all_commits=true&theme=codeSTACKr&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/eduardozaniboni/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardozaniboni&layout=compact&theme=codeSTACKr&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardozaniboni&repo=github-readme-stats&theme=codeSTACKr" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardozaniboni&repo=anuraghazra.github.io&theme=codeSTACKr" />
-</a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa7500&height=120&section=footer"/>
