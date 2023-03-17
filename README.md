@@ -6,7 +6,6 @@
 
 - **Full Stack Web Developer JR!**
 - Sturying **[TypeScript Language](https://www.typescriptlang.org/)**
-- I literally love making projects using **[React](https://react.dev/)** in my front-end and **[NodeJS](https://nodejs.org/en)** in my back-end
 - Currently working at **[EL Produções de Software](https://www.el.com.br/)** with the Java Language and some frameworks
 
 
