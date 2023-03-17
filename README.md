@@ -4,9 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardozaniboni&color=fa7500" alt="Profile Views" /> </p>
 
-- Full Stack Web Developer JR
-- Sturying [TypeScript](https://www.typescriptlang.org/)
-- I’m currently working at [EL Produções de Software](https://www.el.com.br/)
+- **Full Stack Web Developer JR!**
+- Sturying **[TypeScript Language](https://www.typescriptlang.org/)**
+- I literally love making projects using **[React](https://react.dev/)** in my front-end and **[NodeJS](https://nodejs.org/en)** in my back-end
+- Currently working at **[EL Produções de Software](https://www.el.com.br/)** with the Java Language and some frameworks
 
 
 | <a href="https://github.com/eduardozaniboni/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardozaniboni&show_icons=true&include_all_commits=true&theme=codeSTACKr&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/eduardozaniboni/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardozaniboni&layout=compact&theme=codeSTACKr&hide_border=true" /></a> |
