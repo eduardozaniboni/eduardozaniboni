@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardozaniboni&color=fa7500" alt="Profile Views" /> </p>
 
-- **Full Stack Web Developer JR!**
+- **Full Stack Web Developer**
 - Sturying **[TypeScript Language](https://www.typescriptlang.org/)**
 - Currently working at **[EL Produções de Software](https://www.el.com.br/)** with the Java Language and some frameworks
 
