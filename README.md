@@ -12,4 +12,9 @@
 | <a href="https://github.com/eduardozaniboni/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardozaniboni&show_icons=true&include_all_commits=true&theme=codeSTACKr&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/eduardozaniboni/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardozaniboni&layout=compact&theme=codeSTACKr&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+<div> 
+  <a href = "mailto:eduardowz.prog@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eduardozaniboni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa7500&height=120&section=footer"/>
