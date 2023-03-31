@@ -3,7 +3,7 @@
 
 <br/>
 
-- I’m currently learning **JavaScript/TypeScript, ReactJS, NodeJS, NextJS**
+- I’m currently learning **JavaScript/TypeScript, ReactJS, NodeJS, NextJS, NestJS**
 - I’m currently working on **[EL Produções de Software](https://www.el.com.br/)** with the **Java** with **JSF** framework
 
 ### Reach me:
