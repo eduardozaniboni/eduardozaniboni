@@ -1,5 +1,5 @@
 <h1 align="center"> What's up? I'm Eduardo Zaniboni! </h1>
-<h3 align="center">Fullstack Developer from Brazil</h3>
+<h3 align="center">Full Stack Developer from Brazil</h3>
 
 <br/>
 
