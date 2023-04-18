@@ -3,8 +3,8 @@
 
 <br/>
 
-- I’m currently learning **JavaScript/TypeScript, ReactJS, NextJS, NodeJS, NestJS**
-- I’m currently working on **[EL Produções de Software](https://www.el.com.br/)** with the **Java** with **JSF** framework
+- I’m currently learning **NextJS, NestJS, VueJS and Spring Boot**
+- I’m currently working on **[EL Produções de Software](https://www.el.com.br/)** with **VueJS** and **Spring Boot**.
 
 ### Reach me:
 <div> 
