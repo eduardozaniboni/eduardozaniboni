@@ -3,7 +3,8 @@
 
 <br/>
 
-- I’m currently learning **NextJS, NestJS, VueJS and Spring Boot**
+- Currently, I'm focusing on **NextJS** and **NuxtJS** to deepen my knowledge in **Front-End**, aiming to specialize in just one technology.
+- Currently, I'm seeking to specialize in **NestJS** for **Back-End** development.
 - I’m currently working on **[EL Produções de Software](https://www.el.com.br/)** with **VueJS** and **Spring Boot**.
 
 ### Reach me:
