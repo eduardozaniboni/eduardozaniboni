@@ -3,8 +3,8 @@
 
 <br/>
 
-- Currently, I'm focusing on **NextJS** and **NuxtJS** to deepen my knowledge in **Front-End**, aiming to specialize in just one technology.
-- Currently, I'm seeking to specialize in **NestJS** for **Back-End** development.
+- Currently, I'm dedicated to Front-End development using Next.js.
+- At the moment, I'm seeking to specialize in Back-End development with Node.js.
 - I’m currently working on **[EL Produções de Software](https://www.el.com.br/)** with **VueJS** and **Spring Boot**.
 
 ### Reach me:
