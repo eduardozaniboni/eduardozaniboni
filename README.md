@@ -3,8 +3,8 @@
 
 <br/>
 
-- Currently, I'm dedicated to Front-End development using Next.js.
-- At the moment, I'm seeking to specialize in Back-End development with Node.js.
+- Currently, I'm dedicated to **Front-End** development using **Next.js**.
+- At the moment, I'm seeking to specialize in **Back-End** development with **Node.js**.
 - I’m currently working on **[EL Produções de Software](https://www.el.com.br/)** with **VueJS** and **Spring Boot**.
 
 ### Reach me:
