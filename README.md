@@ -14,12 +14,14 @@
 </div>
 
 ### Git stats:
-<div>
-  <a href="https://github.com/eduardozaniboni">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardozaniboni&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardozaniboni&layout=compact&langs_count=7&theme=rose_pine"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=eduardozaniboni&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
+<img align="left" height="415px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=eduardozaniboni&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400" />
+<div align="right">
+  <img height="203px" src="https://luk4x-github-readme-stats.vercel.app/api?username=eduardozaniboni&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400" />
+  <img height="203px" src="https://streak-stats.demolab.com?user=eduardozaniboni&theme=tokyonight&hide_border=true" />
 </div>
-  
+<br/>
+
 ### Languages and Tools:
 <div style="display: inline_block">
   <img align="center" alt="EduardoiZaniboni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
