@@ -15,10 +15,10 @@
 
 ### Git stats:
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=eduardozaniboni&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
-<img align="left" height="380px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=eduardozaniboni&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400" />
+<img align="left" height="360px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=eduardozaniboni&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400" />
 <div align="right">
-  <img height="190px" src="https://luk4x-github-readme-stats.vercel.app/api?username=eduardozaniboni&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400" />
-  <img height="190px" src="https://streak-stats.demolab.com?user=eduardozaniboni&theme=tokyonight&hide_border=true" />
+  <img height="180px" src="https://luk4x-github-readme-stats.vercel.app/api?username=eduardozaniboni&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400" />
+  <img height="180px" src="https://streak-stats.demolab.com?user=eduardozaniboni&theme=tokyonight&hide_border=true" />
 </div>
 <br/>
 
