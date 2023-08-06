@@ -13,14 +13,7 @@
   <a href="https://www.linkedin.com/in/eduardozaniboni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-### Git stats:
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=eduardozaniboni&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 <img align="left" height="370px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=eduardozaniboni&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400" />
-<div align="right">
-  <img height="180px" src="https://luk4x-github-readme-stats.vercel.app/api?username=eduardozaniboni&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400" />
-  <img height="180px" src="https://streak-stats.demolab.com?user=eduardozaniboni&theme=tokyonight&hide_border=true" />
-</div>
-<br/>
 
 ### Languages and Tools:
 <div style="display: inline_block">
