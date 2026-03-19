@@ -34,7 +34,7 @@ Gosto muito de programar por conta da possibilidade de criar soluções para div
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [herdux-cli](https://github.com/eduardozaniboni/herdux-cli) | Ferramentas de infraestrutura para desenvolvedores via CLI | TypeScript, Node.js |
+| [herdux-cli](https://github.com/herdux/herdux-cli) | Ferramentas de infraestrutura para desenvolvedores via CLI | TypeScript, Node.js |
 | [node-async-task-api](https://github.com/eduardozaniboni/node-async-task-api) | REST API com autenticação JWT, filas com BullMQ e Redis | Node.js, Express |
 | [api-fundamentals-node](https://github.com/eduardozaniboni/api-fundamentals-node) | API moderna com Fastify e PostgreSQL | Node.js, Fastify |
 | [node-version-switch](https://github.com/eduardozaniboni/node-version-switch) | Gerenciador de versões Node.js para ambientes Windows corporativos | PowerShell |
